@@ -7,7 +7,7 @@ using SixLabors.ImageSharp.PixelFormats;
 
 namespace PictureFixer.Client
 {
-    // Simplified patch match algoritm derived from https://github.com/YuanTingHsieh/Image_Completion
+    // Simplified patch match algorithm derived from https://github.com/YuanTingHsieh/Image_Completion
 
     public class PatchMatch
     {
